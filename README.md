@@ -3,4 +3,4 @@ Made this while learning JavaScript. A simple webapp that will test your RGB col
 
 Play the game:
 
-[Link to Game](https://www.dash-anurag.github.io/RGB-ColorGame/ "RGB Color Game")
+[Link to Game](https://dash-anurag.github.io/RGB-ColorGame/ "RGB Color Game")
